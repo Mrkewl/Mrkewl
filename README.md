@@ -28,7 +28,7 @@ https://github.com/Mrkewl/My-Portfolio
 
 Here are my certification of proficiency:
   
-  under construction;
+https://github.com/Mrkewl/My-Certifications/blob/main/README.md
 
 
 
