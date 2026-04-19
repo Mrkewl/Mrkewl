@@ -1,22 +1,88 @@
-# 💫 About Me:
-String name = 'Jazsley'; String shortName = 'Jazz'; Print('My name is $name');<br><br>//* Profession<br><br>//---------Pre-covid:<br><br>//I was a Personal Trainer/Nutritionist for 6 Years in practice<br><br>//---------During Lockdown:<br><br>//I started to talk to computers and learn programming<br><br>//---------After Lockdown Post-Covid:<br><br>//Am a full-time software developer<br><br>List Specialisation = ['Flutter-Dart', 'Firebase'];<br><br>List Familiar = ['React - Javascript', 'Django - Python', 'Docker', 'AWS ECS EC2 RDS', 'PostgreSQL MSSQL','NodeJs'];<br><br>Here are my Notable Projects:<br><br>https://github.com/Mrkewl/My-Portfolio<br><br>Here are my certification of proficiency:<br><br>https://github.com/Mrkewl/My-Certifications/blob/main/README.md<br><br>
+# Jazsley Zainal
 
+**Full-stack engineer | AI/RAG systems | GovTech-scale delivery | Singapore → Europe / Australia**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jazz/) 
+I build production software that ships to real users — from national-scale government platforms serving millions of Singaporeans, to AI-powered apps I design, build, and use myself. My background spans exercise science, 6 years running a fitness business, and 4+ years in software engineering. That cross-domain perspective shapes how I approach technical problems: from the user backward, not the stack outward.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mrkewl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mrkewl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkewl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mrkewl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+Currently targeting **Solutions Engineering** and **Forward Deployed Engineering** roles where technical depth meets customer-facing work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mrkewl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## What I'm building
+
+### FitForge — AI fitness coaching grounded in sports science
+RAG-based coaching app that surfaces peer-reviewed training research (Helms, Israetel, Schoenfeld) as personalised, evidence-backed recommendations. Not another generic AI wrapper — the domain knowledge is the product.
+
+`Flutter` `Koa/TypeScript` `Supabase` `pgvector` `Anthropic Claude API` `PostgreSQL`
+
+- Built a full RAG pipeline: chunked sports science literature → pgvector embeddings → Claude API retrieval and generation
+- Grounded in Eric Helms' adherence pyramid, Mike Israetel's RP volume landmarks, and Brad Schoenfeld's hypertrophy research
+- 2 active beta users; wearable integrations (Garmin, Polar, Fitbit) in progress
+
+---
+
+### ApplyAI — Job application pipeline, automated
+End-to-end job search CRM I built to solve my own problem. Scrapes LinkedIn, Greenhouse, and Lever; scores JDs against my profile; generates tailored resumes and cover letters; auto-applies via Playwright. Currently in personal production use.
+
+`Next.js` `TypeScript` `Supabase` `Anthropic Claude API` `Playwright` `PDFKit` `Tailwind CSS`
+
+- Claude API integration: JD scoring, resume tailoring, cover letter generation — all from a single `profile.json` source of truth
+- Custom PDFKit renderer: hanging-indent bullets, inline bold parsing, zero third-party PDF libraries
+- Kanban CRM with Supabase persistence, per-platform location normalisation, and staleness detection
+
+---
+
+## Where I've shipped
+
+**Palo IT → GovTech Singapore** *(2023 – present)*
+Built and maintained digital services used by millions of Singaporeans: LifeSG (cross-agency CMS), Baby Bonus System (30,000 babies/year), OneService App v2. Reduced development redundancy 50% via an internal Form Builder Library.
+
+`Next.js` `React Native` `Koa` `PostgreSQL` `AWS` `ConfigCat` `GitLab CI/CD`
+
+**Accenture** *(2022 – 2023)*
+SRE and cloud infra for enterprise systems. 95%+ uptime, AWS Lambda automation, Dynatrace/CloudWatch monitoring.
+
+**An Xing Technologies** *(2021 – 2022)*
+Cross-platform Flutter apps, Stripe/Apple Pay/Google Pay integrations, mentored 4 NUS interns to full-time conversion.
+
+**Bodyengineers Pte Ltd — Founder** *(2015 – 2021)*
+Built and ran a fitness business leasing personal trainers to national gym chains across Singapore. 200+ clients, press features in The New Paper and Berita Harian, invited speaker at Pepsi Company and en world Singapore. Received a 4/5 grant evaluation from an Enterprise Singapore accredited incubator for an AI personal training platform — before I knew how to code.
+
+---
+
+## Stack
+
+| Layer | Technologies |
+|---|---|
+| Frontend / Mobile | React, Next.js, Flutter/Dart, TypeScript, Tailwind CSS |
+| Backend | Node.js, Koa, Django, Python |
+| Databases | PostgreSQL, Supabase, pgvector, Firestore, MongoDB |
+| Cloud / DevOps | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD |
+| AI / ML | Anthropic Claude API, RAG pipelines, pgvector, prompt engineering |
+| Observability | Dynatrace, Prometheus, CloudWatch |
+
+---
+
+## Certifications
+
+- AWS Solutions Architect – Associate (2022)
+- AWS Developer – Associate (2024)
+- Terraform Associate (2023)
+- Microsoft Certified: Azure Administrator (2023)
+- GitHub Copilot Certified (2025)
+- ICT Assessment (Software Developer) – GovTech Digital Academy / NUS-ISS (2025)
+- Anthropic: Claude 101, Claude Code in Action, Introduction to MCP (2026)
+
+---
+
+## Education
+
+**B.Sc. Sports Science** — Edinburgh Napier University
+**Diploma in Aerospace Engineering** — Singapore Polytechnic
+**Certified Practitioner** — Mac-Nutrition University
+
+---
+
+📍 Singapore | 🌍 Open to relocation: UK, Germany, Netherlands, Australia
+📧 jazsleyzainal.93@gmail.com
+💼 [linkedin.com/in/jazz](https://www.linkedin.com/in/jazz/)
