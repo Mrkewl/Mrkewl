@@ -17,7 +17,6 @@ RAG-based coaching app that surfaces peer-reviewed training research (Helms, Isr
 
 - Built a full RAG pipeline: chunked sports science literature → pgvector embeddings → Claude API retrieval and generation
 - Grounded in Eric Helms' adherence pyramid, Mike Israetel's RP volume landmarks, and Brad Schoenfeld's hypertrophy research
-- 2 active beta users; wearable integrations (Garmin, Polar, Fitbit) in progress
 
 ---
 
