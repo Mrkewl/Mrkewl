@@ -56,7 +56,7 @@ Built and ran a fitness business leasing personal trainers to national gym chain
 | Databases | PostgreSQL, Supabase, pgvector, Firestore, MongoDB |
 | Cloud / DevOps | AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD |
 | AI / ML | Anthropic Claude API, RAG pipelines, pgvector, prompt engineering |
-| Observability | Dynatrace, Prometheus, CloudWatch |
+| Observability | CloudWatch |
 
 ---
 
