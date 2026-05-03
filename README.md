@@ -1,10 +1,8 @@
 # Jazsley Zainal
 
-**Full-stack engineer | AI/RAG systems | GovTech-scale delivery | Singapore → Europe / Australia**
+**Full-stack engineer | AI/RAG systems | GovTech-scale delivery |
 
 I build production software that ships to real users — from national-scale government platforms serving millions of Singaporeans, to AI-powered apps I design, build, and use myself. My background spans exercise science, 6 years running a fitness business, and 4+ years in software engineering. That cross-domain perspective shapes how I approach technical problems: from the user backward, not the stack outward.
-
-Currently targeting **Solutions Engineering** and **Forward Deployed Engineering** roles where technical depth meets customer-facing work.
 
 ---
 
