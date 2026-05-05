@@ -8,6 +8,20 @@ I build production software that ships to real users — from national-scale gov
 
 ## What I'm building
 
+### [Agent Harness](https://github.com/Mrkewl/Jaygents) 
+
+Out of the box, Claude is capable but undisciplined — it skips requirements, guesses intent, and loses context between sessions. Agent  
+Harness fixes that by enforcing structured thinking, planning, and execution as non-negotiable gates before any code gets written.
+                                                                                                                                          
+Forget about prompts. Just describe what you want — Agent Harness routes your request to the right workflow automatically. Starting a   
+feature, debugging a bug, shipping a branch — each one triggers the correct skill without you having to think about it.
+                                                                                                                                          
+Every session starts with project context loaded. Every feature goes through brainstorm → spec → plan → implement → review. Every agent
+follows best practices baked into its definition — not suggested, enforced.
+
+It ships with a library of reusable agents (architect, backend engineer, code reviewer, team lead), a workflow skill for each phase of  
+development, a persistent knowledge base that grows with your project, and a
+
 ### FitForge — AI fitness coaching grounded in sports science
 RAG-based coaching app that surfaces peer-reviewed training research (Helms, Israetel, Schoenfeld) as personalised, evidence-backed recommendations. Not another generic AI wrapper — the domain knowledge is the product.
 
